@@ -1,0 +1,15 @@
+{
+    "labels": ["Deposit", "Received", "Invested"],
+    "datasets": [
+      {
+        "label": "Amounts",
+        "data": [100228, 150345.05, 150345.05],
+        "backgroundColor": [
+          "rgba(75, 192, 192, 1)",
+          "rgba(255, 206, 86, 1)",
+          "rgba(153, 102, 255, 1)"
+        ]
+      }
+    ]
+  }
+  
